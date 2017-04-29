@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ssemakov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ssemakov.com
+  * I am ssemakov (https://keybase.io/ssemakov) on keybase.
+  * I have a public key with fingerprint E8B8 6CB5 EF2F 07BB 0727  FBE7 7F33 CBCE 3F53 2B99
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101dc980e1ad451656b66528cebb615cd1d9d200bea94d8d56eb115491e2c6450970a",
+            "fingerprint": "e8b86cb5ef2f07bb0727fbe77f33cbce3f532b99",
+            "host": "keybase.io",
+            "key_id": "7f33cbce3f532b99",
+            "kid": "0101dc980e1ad451656b66528cebb615cd1d9d200bea94d8d56eb115491e2c6450970a",
+            "uid": "071ba6e3acc7b951f5922728d3057619",
+            "username": "ssemakov"
+        },
+        "service": {
+            "hostname": "ssemakov.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469051143,
+    "expire_in": 157680000,
+    "prev": "1aef63a2641cfe313af1c9c2add655208807fa8c2d67feabc4934e1ce4d713b8",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJdSBRRGN3tT9RMq1UCe5oS+xGZOzN3fhYzfBGJXrLQtHKde+fOOqk7
+6/61am5kSIpKJZKQZGBYD1EpVGwRUVEZCtpDWZFmghCFLmS2UWo2Y/USPXZfLve7
+55zvnI/vUcJyS5w1cfyQoy+c+9k6+OCs31J46lNMLYV0pZqy11LlZOkiFQrx+hzl
+mkLZKRrQQMGSSBMgKxwEPOQRz0NGxAQhHkCsAEVSGJpGRJY4RVQgTxAAkJMAYTDP
+QVoSaJnKoFTN5SQet0dz+QxZIiKRxwgSlVFpASFaYAQVEUFQWRYjTFgVsgySJINY
+pntNhmEOyV6SqelGzXg4luz9A/+ffft/yQkAyTxhZYwFJEGgQolhBEZUWBoKPDD7
++r3E45IriYH2ekmlXK4HqLoMyqgGNEzMwZpJ/kJkYr3S4Lo9uk/HeoXxU+bzue0m
+0VftNpFHCHL81nAgzaUYYzQIAeLxarqLsgMDiX2aKQo4XqIhABybQZGgW/MQh2Yi
+DIMibRyzDQkYkkAmKs/KDM8BrBIWsLIKsIQZWVF4CBlaFGlBlUXMKLygEhlhTmI5
+AjDhFAGwSKTMVFUunbJDw6bsNPNoTpfs83sIVffw/sEVFmucZdXKZeZ6WeJik/4s
+3eVozIKti/ngbLtZM5JqLT6zf93sLNPWE9q9YTbgSHd+6V2fHekt2h5sGsne2VpT
+HGk5l1vZGMz6JoD8mUjnQvH3gQHbjr2wEa4ZKyuk75Tkxb5/unijtk3PLpp5O8FH
+73bO5+y59SY8GH+gb2jiSUlLbvW9hMQTm4/bwI/2tPGSUFhICR0t7cwem0N9k6eH
+8mNuv57q38Q9O5mQmLxNejfcUHBl7eqqopH6ZOdX50A3at+6pae5xFacE09sr8LN
+8VOLV18+rmrYuEi3ck153S92jabOd0Sd1wuDE+mjTZdC7ZGUitiCaNf0sYvX6snH
+C8NZpYf7tcnzaa4Oy1zzvudJ0z8B/aFG/g==
+=PS8A
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ssemakov
+
+==================================================================
