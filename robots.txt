@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://ssemakov.com/sitemap.xml
