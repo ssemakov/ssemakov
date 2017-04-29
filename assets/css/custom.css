@@ -243,3 +243,7 @@ footer p {
   display: table;   /* Allow the centering to work */
   margin: 0 auto;
 }
+
+.wakatime-stats {
+  margin-top: 2em;
+}
